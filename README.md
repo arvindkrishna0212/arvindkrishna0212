@@ -27,7 +27,7 @@ I am a student at Amrita Vishwa Vidyapeetham who has a strong passion for Comput
 - ❓ Ask me about anything related to Mysql  
   
 
-- ⚡ Fun fact: I live dark mode on phones!  
+- ⚡ Fun fact: I love dark mode on phones!  
 
 
 </td><td valign="top" width="50%">
