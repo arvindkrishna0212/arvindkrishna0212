@@ -21,7 +21,7 @@ I am a student at Amrita Vishwa Vidyapeetham who has a strong passion for Comput
 ## Rapidfire  
 <table><tr><td valign="top" width="100%">
 
-- 🌱 I’m currently learning REST API  
+- 🌱 I’m currently learning Neo4j  
   
 
 - ❓ Ask me about anything related to Mysql  
