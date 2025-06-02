@@ -1,7 +1,7 @@
 <!-- Header with animated typing effect -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Arvind+Krishna+Srinivas!;Welcome+to+my+GitHub+Profile!;Backend+Developer+%26+AI+Enthusiast!&center=true&size=30&color=3498db&duration=3000&pause=1000">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Arvind+Krishna+Srinivas!;Welcome+to+my+GitHub+Profile&center=true&size=30&color=3498db&duration=3000&pause=1000">
 </h1>
 
 <!-- Profile views counter and social badges -->
