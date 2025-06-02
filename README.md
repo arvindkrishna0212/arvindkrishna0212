@@ -52,19 +52,6 @@
 
 </details>
 
-<!-- GitHub Stats with animations -->
-
-<h2>📊 GitHub Stats</h2>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arvindkrishna0212&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=react" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvindkrishna0212&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=react"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arvindkrishna0212&theme=react&hide_border=true" alt="GitHub Streak" />
-</p>
-
 <!-- Animated skill icons -->
 
 <h2>🛠️ Skills & Technologies</h2>
@@ -109,27 +96,6 @@
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="PowerBI" />
 </p>
 
-<!-- Featured Projects with animations -->
-
-<h2>🚀 Featured Projects</h2>
-
-<div align="center">
-  <a href="https://github.com/arvindkrishna0212/AI-Voice-Reporter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arvindkrishna0212&repo=AI-Voice-Reporter&theme=react" />
-  </a>
-  <a href="https://github.com/arvindkrishna0212/NL2SQL">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arvindkrishna0212&repo=NL2SQL&theme=react" />
-  </a>
-</div>
-<div align="center">
-  <a href="https://github.com/arvindkrishna0212/voiceAssistant">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arvindkrishna0212&repo=voiceAssistant&theme=react" />
-  </a>
-  <a href="https://github.com/arvindkrishna0212/StockAnalysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arvindkrishna0212&repo=StockAnalysis&theme=react" />
-  </a>
-</div>
-
 <!-- Experience Timeline with animations -->
 
 <h2>💼 Experience</h2>
@@ -172,19 +138,44 @@
   </table>
 </div>
 
-<!-- Achievements Section -->
+<!-- What I'm Working On -->
 
-<h2>🏆 Achievements</h2>
+<h2>🔭 What I'm Working On</h2>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arvindkrishna0212&theme=nord&column=4&margin-w=15&margin-h=15" alt="Trophy" />
+<p>
+  I'm currently exploring graph databases with Neo4j and enhancing my skills in:
 </p>
 
 <ul>
-  <li>🥈 <b>Runner-Up</b> at HACTIVATE Hackathon (Cognizance, Amrita School of Computing)</li>
-  <li>🎓 <b>NPTEL Elite Certificate</b> in Google Cloud Computing Foundations</li>
-  <li>📝 <b>Certified Prompt Engineer</b> (Global Skill Development Council)</li>
+  <li>🤖 Generative AI and Large Language Models</li>
+  <li>📊 Data Analysis and Visualization</li>
+  <li>🔍 Retrieval-Augmented Generation (RAG) Systems</li>
+  <li>🗣️ Voice-Controlled Applications</li>
+  <li>📈 Algorithmic Trading Systems</li>
 </ul>
+
+<!-- Interests Section -->
+
+<h2>🌟 Interests</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Table_Tennis-FF6B6B?style=for-the-badge&logoColor=white" alt="Table Tennis" /><br>
+        College-level representation, emphasizing dedication and teamwork
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Stock_Markets-4CAF50?style=for-the-badge&logoColor=white" alt="Stock Markets" /><br>
+        Avid follower of market trends and investment strategies
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Reading-8A2BE2?style=for-the-badge&logoColor=white" alt="Reading" /><br>
+        Exploring diverse non-fiction and fiction genres
+      </td>
+    </tr>
+  </table>
+</div>
 
 <!-- Animated Footer -->
 
